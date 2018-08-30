@@ -12,3 +12,5 @@ Choose the correct answer
 2) range
 3) number
 4) select
+
+number 2
